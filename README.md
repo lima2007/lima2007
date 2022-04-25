@@ -1,6 +1,6 @@
 # SOBRE MIM
 
-- 👋 oi, sou o aluno **carlos daniel;
+- 👋 oi, sou o aluno **carlos daniel**;
 - 👀 tenho interesse em aprender a criar sites e jogo;
 -  atualmente estou aprendendo na plataforma Alura,criar jogos e programa no scratcgh e no p5 js 
 - 💞️ pŕocuro colabora no conjunto com meus colegas
